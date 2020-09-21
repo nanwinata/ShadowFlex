@@ -6,6 +6,6 @@
 *** List this file in a .gitignore
 */
 
-const API_KEY = '0fd55b792d815c99792d8ba07533e9f6';
+const API_KEY = '87e7bb4f90c32c825f2db8dde6861a67';
 const BASE_URL = 'https://api.themoviedb.org/3/';
 const BASE_IMG_URL = 'https://image.tmdb.org/t/p/';
